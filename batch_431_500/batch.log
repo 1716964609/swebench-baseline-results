@@ -1,0 +1,231 @@
+Loading SWE-bench Verified...
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+===== SELECTED TASKS =====
+#431 django__django-13670
+#432 django__django-13809
+#433 django__django-13109
+#434 django__django-14349
+#435 django__django-13401
+#436 django__django-14373
+#437 django__django-11066
+#438 django__django-13212
+#439 django__django-11138
+#440 django__django-15695
+#441 django__django-16612
+#442 django__django-14765
+#443 django__django-12273
+#444 django__django-12663
+#445 django__django-12965
+#446 django__django-12419
+#447 django__django-13925
+#448 django__django-12308
+#449 django__django-13821
+#450 django__django-16116
+#451 django__django-16333
+#452 django__django-15104
+#453 django__django-16100
+#454 django__django-10999
+#455 django__django-11749
+#456 django__django-13346
+#457 django__django-13933
+#458 django__django-13089
+#459 django__django-16527
+#460 django__django-15563
+#461 django__django-11095
+#462 django__django-14011
+#463 django__django-12276
+#464 django__django-14539
+#465 django__django-16315
+#466 django__django-15380
+#467 django__django-13028
+#468 django__django-12774
+#469 django__django-14608
+#470 django__django-14155
+#471 django__django-10914
+#472 django__django-16082
+#473 django__django-13297
+#474 django__django-11555
+#475 django__django-13820
+#476 django__django-14089
+#477 django__django-17029
+#478 django__django-16139
+#479 django__django-13810
+#480 django__django-12713
+#481 django__django-16819
+#482 django__django-16485
+#483 django__django-11490
+#484 django__django-11820
+#485 django__django-14493
+#486 django__django-13315
+#487 django__django-11999
+#488 django__django-11885
+#489 django__django-11265
+#490 django__django-14170
+#491 django__django-15525
+#492 django__django-13551
+#493 django__django-14017
+#494 django__django-11276
+#495 django__django-16429
+#496 django__django-15732
+#497 django__django-15731
+#498 django__django-13964
+#499 django__django-12406
+#500 django__django-12304
+
+Total: 70
+Repositories: 1
+
+Codex: codex-cli 0.162.1
+Concurrent agents: 10
+
+===== PARALLEL EXECUTION =====
+Workers: 10
+Tasks: 70
+==============================
+
+START #431: django__django-13670START #432: django__django-13809
+
+START #433: django__django-13109
+START #434: django__django-14349
+START #435: django__django-13401
+START #436: django__django-14373
+START #437: django__django-11066
+START #438: django__django-13212
+START #439: django__django-11138
+START #440: django__django-15695
+START #441: django__django-16612
+FINISH django__django-14373: OK 55.9s patch=412 bytes | saved=1/70
+START #442: django__django-14765
+FINISH django__django-11066: OK 63.9s patch=761 bytes | saved=2/70
+START #443: django__django-12273
+FINISH django__django-13109: OK 66.7s patch=632 bytes | saved=3/70
+START #444: django__django-12663
+FINISH django__django-15695: OK 73.1s patch=1292 bytes | saved=4/70
+START #445: django__django-12965
+FINISH django__django-13670: OK 80.8s patch=419 bytes | saved=5/70
+START #446: django__django-12419
+FINISH django__django-14349: OK 84.4s patch=651 bytes | saved=6/70
+START #447: django__django-13925
+FINISH django__django-13401: OK 91.0s patch=1385 bytes | saved=7/70
+START #448: django__django-12308
+FINISH django__django-14765: OK 35.9s patch=780 bytes | saved=8/70
+START #449: django__django-13821
+FINISH django__django-16612: OK 63.8s patch=637 bytes | saved=9/70
+START #450: django__django-16116
+FINISH django__django-12308: OK 51.8s patch=677 bytes | saved=10/70
+START #451: django__django-16333
+FINISH django__django-13212: OK 161.1s patch=7171 bytes | saved=11/70
+START #452: django__django-15104
+FINISH django__django-13809: OK 168.3s patch=2102 bytes | saved=12/70
+START #453: django__django-16100
+FINISH django__django-13821: OK 59.4s patch=2636 bytes | saved=13/70
+START #454: django__django-10999
+FINISH django__django-12419: OK 94.8s patch=1647 bytes | saved=14/70
+START #455: django__django-11749
+FINISH django__django-11138: OK 182.9s patch=7494 bytes | saved=15/70
+START #456: django__django-13346
+FINISH django__django-16116: OK 36.0s patch=1157 bytes | saved=16/70
+START #457: django__django-13933
+FINISH django__django-12273: OK 127.7s patch=820 bytes | saved=17/70
+START #458: django__django-13089
+FINISH django__django-12965: OK 128.7s patch=501 bytes | saved=18/70
+START #459: django__django-16527
+FINISH django__django-15104: OK 49.5s patch=600 bytes | saved=19/70
+START #460: django__django-15563
+FINISH django__django-13925: OK 132.1s patch=500 bytes | saved=20/70
+START #461: django__django-11095
+FINISH django__django-16333: OK 66.2s patch=392 bytes | saved=21/70
+START #462: django__django-14011
+FINISH django__django-13933: OK 61.0s patch=1206 bytes | saved=22/70
+START #463: django__django-12276
+FINISH django__django-16100: OK 82.3s patch=1548 bytes | saved=23/70
+START #464: django__django-14539
+FINISH django__django-16527: OK 46.3s patch=543 bytes | saved=24/70
+START #465: django__django-16315
+FINISH django__django-13089: OK 66.3s patch=873 bytes | saved=25/70
+START #466: django__django-15380
+FINISH django__django-10999: OK 97.9s patch=491 bytes | saved=26/70
+START #467: django__django-13028
+FINISH django__django-14011: OK 49.2s patch=944 bytes | saved=27/70
+START #468: django__django-12774
+FINISH django__django-11749: OK 154.4s patch=1482 bytes | saved=28/70
+START #469: django__django-14608
+FINISH django__django-12276: OK 79.8s patch=903 bytes | saved=29/70
+START #470: django__django-14155
+FINISH django__django-11095: OK 122.1s patch=2147 bytes | saved=30/70
+START #471: django__django-10914
+FINISH django__django-15380: OK 79.1s patch=851 bytes | saved=31/70
+START #472: django__django-16082
+FINISH django__django-13346: OK 171.1s patch=1519 bytes | saved=32/70
+START #473: django__django-13297
+FINISH django__django-16315: OK 92.0s patch=599 bytes | saved=33/70
+START #474: django__django-11555
+FINISH django__django-14608: OK 61.0s patch=1655 bytes | saved=34/70
+START #475: django__django-13820
+FINISH django__django-16082: OK 48.7s patch=394 bytes | saved=35/70
+START #476: django__django-14089
+FINISH django__django-12774: OK 70.2s patch=877 bytes | saved=36/70
+START #477: django__django-17029
+FINISH django__django-12663: OK 338.9s patch=668 bytes | saved=37/70
+START #478: django__django-16139
+FINISH django__django-10914: OK 68.3s patch=3125 bytes | saved=38/70
+START #479: django__django-13810
+FINISH django__django-14155: OK 78.0s patch=573 bytes | saved=39/70
+START #480: django__django-12713
+FINISH django__django-14539: OK 167.5s patch=711 bytes | saved=40/70
+START #481: django__django-16819
+FINISH django__django-14089: OK 38.5s patch=414 bytes | saved=41/70
+START #482: django__django-16485
+FINISH django__django-13028: OK 148.4s patch=608 bytes | saved=42/70
+START #483: django__django-11490
+FINISH django__django-13297: OK 87.0s patch=741 bytes | saved=43/70
+START #484: django__django-11820
+FINISH django__django-17029: OK 43.8s patch=585 bytes | saved=44/70
+START #485: django__django-14493
+FINISH django__django-16139: OK 34.3s patch=729 bytes | saved=45/70
+START #486: django__django-13315
+FINISH django__django-15563: OK 237.1s patch=2734 bytes | saved=46/70
+START #487: django__django-11999
+FINISH django__django-13810: OK 33.4s patch=842 bytes | saved=47/70
+START #488: django__django-11885
+FINISH django__django-12713: OK 37.4s patch=1805 bytes | saved=48/70
+START #489: django__django-11265
+FINISH django__django-13820: OK 80.5s patch=977 bytes | saved=49/70
+START #490: django__django-14170
+FINISH django__django-16485: OK 51.6s patch=542 bytes | saved=50/70
+START #491: django__django-15525
+FINISH django__django-14493: OK 61.9s patch=559 bytes | saved=51/70
+START #492: django__django-13551
+FINISH django__django-11820: OK 71.4s patch=768 bytes | saved=52/70
+START #493: django__django-14017
+FINISH django__django-11999: OK 75.0s patch=720 bytes | saved=53/70
+START #494: django__django-11276
+FINISH django__django-13315: OK 91.7s patch=1311 bytes | saved=54/70
+START #495: django__django-16429
+FINISH django__django-14170: OK 62.2s patch=647 bytes | saved=55/70
+START #496: django__django-15732
+FINISH django__django-11265: OK 79.0s patch=585 bytes | saved=56/70
+START #497: django__django-15731
+FINISH django__django-16819: OK 123.5s patch=791 bytes | saved=57/70
+START #498: django__django-13964
+FINISH django__django-11555: OK 172.7s patch=1169 bytes | saved=58/70
+START #499: django__django-12406
+FINISH django__django-11276: OK 29.8s patch=1069 bytes | saved=59/70
+START #500: django__django-12304
+FINISH django__django-16429: OK 27.3s patch=389 bytes | saved=60/70
+FINISH django__django-15525: OK 74.0s patch=670 bytes | saved=61/70
+FINISH django__django-11490: OK 142.9s patch=631 bytes | saved=62/70
+FINISH django__django-15731: OK 43.4s patch=797 bytes | saved=63/70
+FINISH django__django-14017: OK 98.8s patch=579 bytes | saved=64/70
+FINISH django__django-13551: OK 115.9s patch=1217 bytes | saved=65/70
+FINISH django__django-13964: OK 68.5s patch=700 bytes | saved=66/70
+FINISH django__django-15732: OK 80.7s patch=467 bytes | saved=67/70
+FINISH django__django-11885: OK 234.2s patch=2010 bytes | saved=68/70
+FINISH django__django-12304: OK 111.0s patch=482 bytes | saved=69/70
+FINISH django__django-12406: OK 235.0s patch=2259 bytes | saved=70/70
+
+===== BATCH COMPLETE =====
+Predictions: 70/70
+Non-empty patches: 70
+Output: /Users/machome/swebench-play/batch_431_500/predictions.jsonl
