@@ -1,0 +1,2508 @@
+{
+  "schema_version": 1,
+  "dataset": "SWE-bench_Verified",
+  "order_type": "vanilla_assigned_order",
+  "total": 500,
+  "instances": [
+    {
+      "vanilla_number": 1,
+      "instance_id": "sympy__sympy-20590",
+      "source": "codex-first-test-001"
+    },
+    {
+      "vanilla_number": 2,
+      "instance_id": "astropy__astropy-12907",
+      "source": "batch_02_10"
+    },
+    {
+      "vanilla_number": 3,
+      "instance_id": "astropy__astropy-13033",
+      "source": "batch_02_10"
+    },
+    {
+      "vanilla_number": 4,
+      "instance_id": "astropy__astropy-13236",
+      "source": "batch_02_10"
+    },
+    {
+      "vanilla_number": 5,
+      "instance_id": "astropy__astropy-13398",
+      "source": "batch_02_10"
+    },
+    {
+      "vanilla_number": 6,
+      "instance_id": "astropy__astropy-13453",
+      "source": "batch_02_10"
+    },
+    {
+      "vanilla_number": 7,
+      "instance_id": "astropy__astropy-13579",
+      "source": "batch_02_10"
+    },
+    {
+      "vanilla_number": 8,
+      "instance_id": "astropy__astropy-13977",
+      "source": "batch_02_10"
+    },
+    {
+      "vanilla_number": 9,
+      "instance_id": "astropy__astropy-14096",
+      "source": "batch_02_10"
+    },
+    {
+      "vanilla_number": 10,
+      "instance_id": "astropy__astropy-14182",
+      "source": "batch_02_10"
+    },
+    {
+      "vanilla_number": 11,
+      "instance_id": "astropy__astropy-14995",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 12,
+      "instance_id": "sphinx-doc__sphinx-9258",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 13,
+      "instance_id": "psf__requests-1766",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 14,
+      "instance_id": "scikit-learn__scikit-learn-15100",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 15,
+      "instance_id": "pylint-dev__pylint-6528",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 16,
+      "instance_id": "matplotlib__matplotlib-20826",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 17,
+      "instance_id": "mwaskom__seaborn-3069",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 18,
+      "instance_id": "sympy__sympy-20154",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 19,
+      "instance_id": "django__django-11239",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 20,
+      "instance_id": "pydata__xarray-6992",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 21,
+      "instance_id": "pallets__flask-5014",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 22,
+      "instance_id": "pytest-dev__pytest-10356",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 23,
+      "instance_id": "sphinx-doc__sphinx-7462",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 24,
+      "instance_id": "pydata__xarray-4687",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 25,
+      "instance_id": "scikit-learn__scikit-learn-14087",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 26,
+      "instance_id": "pytest-dev__pytest-6202",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 27,
+      "instance_id": "matplotlib__matplotlib-22719",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 28,
+      "instance_id": "psf__requests-5414",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 29,
+      "instance_id": "pylint-dev__pylint-4604",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 30,
+      "instance_id": "django__django-15103",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 31,
+      "instance_id": "mwaskom__seaborn-3187",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 32,
+      "instance_id": "sympy__sympy-13372",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 33,
+      "instance_id": "astropy__astropy-14309",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 34,
+      "instance_id": "scikit-learn__scikit-learn-14710",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 35,
+      "instance_id": "matplotlib__matplotlib-26342",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 36,
+      "instance_id": "sphinx-doc__sphinx-8269",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 37,
+      "instance_id": "astropy__astropy-8707",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 38,
+      "instance_id": "sympy__sympy-19495",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 39,
+      "instance_id": "pytest-dev__pytest-7490",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 40,
+      "instance_id": "psf__requests-2931",
+      "source": "batch_11_40"
+    },
+    {
+      "vanilla_number": 41,
+      "instance_id": "psf__requests-1921",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 42,
+      "instance_id": "pytest-dev__pytest-8399",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 43,
+      "instance_id": "astropy__astropy-8872",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 44,
+      "instance_id": "sympy__sympy-13551",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 45,
+      "instance_id": "django__django-15268",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 46,
+      "instance_id": "matplotlib__matplotlib-14623",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 47,
+      "instance_id": "pylint-dev__pylint-6903",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 48,
+      "instance_id": "scikit-learn__scikit-learn-13439",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 49,
+      "instance_id": "sphinx-doc__sphinx-9658",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 50,
+      "instance_id": "pydata__xarray-6744",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 51,
+      "instance_id": "scikit-learn__scikit-learn-25102",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 52,
+      "instance_id": "psf__requests-1724",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 53,
+      "instance_id": "django__django-15252",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 54,
+      "instance_id": "pytest-dev__pytest-5809",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 55,
+      "instance_id": "pydata__xarray-4966",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 56,
+      "instance_id": "pylint-dev__pylint-6386",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 57,
+      "instance_id": "sphinx-doc__sphinx-8056",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 58,
+      "instance_id": "matplotlib__matplotlib-22871",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 59,
+      "instance_id": "astropy__astropy-7606",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 60,
+      "instance_id": "sympy__sympy-23262",
+      "source": "batch_41_60"
+    },
+    {
+      "vanilla_number": 61,
+      "instance_id": "scikit-learn__scikit-learn-10297",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 62,
+      "instance_id": "psf__requests-1142",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 63,
+      "instance_id": "django__django-13279",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 64,
+      "instance_id": "sphinx-doc__sphinx-8120",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 65,
+      "instance_id": "pylint-dev__pylint-7080",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 66,
+      "instance_id": "matplotlib__matplotlib-25775",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 67,
+      "instance_id": "sympy__sympy-13877",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 68,
+      "instance_id": "astropy__astropy-14508",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 69,
+      "instance_id": "pydata__xarray-4094",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 70,
+      "instance_id": "pytest-dev__pytest-5262",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 71,
+      "instance_id": "pytest-dev__pytest-7521",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 72,
+      "instance_id": "sphinx-doc__sphinx-9230",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 73,
+      "instance_id": "django__django-14500",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 74,
+      "instance_id": "psf__requests-6028",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 75,
+      "instance_id": "sympy__sympy-11618",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 76,
+      "instance_id": "astropy__astropy-7166",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 77,
+      "instance_id": "scikit-learn__scikit-learn-13496",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 78,
+      "instance_id": "matplotlib__matplotlib-20859",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 79,
+      "instance_id": "pylint-dev__pylint-7277",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 80,
+      "instance_id": "pydata__xarray-7233",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 81,
+      "instance_id": "matplotlib__matplotlib-25332",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 82,
+      "instance_id": "scikit-learn__scikit-learn-25747",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 83,
+      "instance_id": "sympy__sympy-24066",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 84,
+      "instance_id": "pytest-dev__pytest-5840",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 85,
+      "instance_id": "sphinx-doc__sphinx-10614",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 86,
+      "instance_id": "astropy__astropy-14369",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 87,
+      "instance_id": "pylint-dev__pylint-4551",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 88,
+      "instance_id": "pydata__xarray-3095",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 89,
+      "instance_id": "django__django-13410",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 90,
+      "instance_id": "psf__requests-2317",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 91,
+      "instance_id": "django__django-16493",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 92,
+      "instance_id": "astropy__astropy-14539",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 93,
+      "instance_id": "sphinx-doc__sphinx-10466",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 94,
+      "instance_id": "pytest-dev__pytest-7432",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 95,
+      "instance_id": "sympy__sympy-14248",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 96,
+      "instance_id": "pydata__xarray-4356",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 97,
+      "instance_id": "matplotlib__matplotlib-25960",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 98,
+      "instance_id": "scikit-learn__scikit-learn-14053",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 99,
+      "instance_id": "pylint-dev__pylint-4970",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 100,
+      "instance_id": "pylint-dev__pylint-8898",
+      "source": "batch_61_100"
+    },
+    {
+      "vanilla_number": 101,
+      "instance_id": "scikit-learn__scikit-learn-13779",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 102,
+      "instance_id": "sphinx-doc__sphinx-10673",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 103,
+      "instance_id": "sympy__sympy-13615",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 104,
+      "instance_id": "pytest-dev__pytest-7236",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 105,
+      "instance_id": "astropy__astropy-14598",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 106,
+      "instance_id": "pydata__xarray-7393",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 107,
+      "instance_id": "pylint-dev__pylint-4661",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 108,
+      "instance_id": "django__django-14311",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 109,
+      "instance_id": "matplotlib__matplotlib-22865",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 110,
+      "instance_id": "astropy__astropy-14365",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 111,
+      "instance_id": "sphinx-doc__sphinx-7889",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 112,
+      "instance_id": "pydata__xarray-4695",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 113,
+      "instance_id": "matplotlib__matplotlib-20488",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 114,
+      "instance_id": "django__django-10880",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 115,
+      "instance_id": "pytest-dev__pytest-10081",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 116,
+      "instance_id": "scikit-learn__scikit-learn-25931",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 117,
+      "instance_id": "sympy__sympy-16597",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 118,
+      "instance_id": "pytest-dev__pytest-6197",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 119,
+      "instance_id": "sympy__sympy-16766",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 120,
+      "instance_id": "astropy__astropy-7671",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 121,
+      "instance_id": "scikit-learn__scikit-learn-11578",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 122,
+      "instance_id": "sphinx-doc__sphinx-10449",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 123,
+      "instance_id": "django__django-16662",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 124,
+      "instance_id": "pydata__xarray-3677",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 125,
+      "instance_id": "matplotlib__matplotlib-26466",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 126,
+      "instance_id": "pydata__xarray-6938",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 127,
+      "instance_id": "sphinx-doc__sphinx-7757",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 128,
+      "instance_id": "pytest-dev__pytest-7324",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 129,
+      "instance_id": "sympy__sympy-20428",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 130,
+      "instance_id": "astropy__astropy-7336",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 131,
+      "instance_id": "django__django-16667",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 132,
+      "instance_id": "matplotlib__matplotlib-25122",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 133,
+      "instance_id": "scikit-learn__scikit-learn-12682",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 134,
+      "instance_id": "pytest-dev__pytest-5787",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 135,
+      "instance_id": "scikit-learn__scikit-learn-14496",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 136,
+      "instance_id": "sphinx-doc__sphinx-7910",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 137,
+      "instance_id": "django__django-11119",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 138,
+      "instance_id": "sympy__sympy-16450",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 139,
+      "instance_id": "matplotlib__matplotlib-24870",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 140,
+      "instance_id": "pydata__xarray-6599",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 141,
+      "instance_id": "pytest-dev__pytest-7982",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 142,
+      "instance_id": "django__django-11087",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 143,
+      "instance_id": "scikit-learn__scikit-learn-13124",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 144,
+      "instance_id": "sympy__sympy-19346",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 145,
+      "instance_id": "sphinx-doc__sphinx-9367",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 146,
+      "instance_id": "pydata__xarray-7229",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 147,
+      "instance_id": "matplotlib__matplotlib-25287",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 148,
+      "instance_id": "pydata__xarray-6461",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 149,
+      "instance_id": "pytest-dev__pytest-5631",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 150,
+      "instance_id": "django__django-15278",
+      "source": "batch_101_150"
+    },
+    {
+      "vanilla_number": 151,
+      "instance_id": "sympy__sympy-21930",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 152,
+      "instance_id": "pytest-dev__pytest-10051",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 153,
+      "instance_id": "sphinx-doc__sphinx-10435",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 154,
+      "instance_id": "django__django-11790",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 155,
+      "instance_id": "scikit-learn__scikit-learn-12585",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 156,
+      "instance_id": "matplotlib__matplotlib-25311",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 157,
+      "instance_id": "pydata__xarray-2905",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 158,
+      "instance_id": "scikit-learn__scikit-learn-25973",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 159,
+      "instance_id": "matplotlib__matplotlib-23299",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 160,
+      "instance_id": "pydata__xarray-6721",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 161,
+      "instance_id": "sympy__sympy-20801",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 162,
+      "instance_id": "django__django-16145",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 163,
+      "instance_id": "pytest-dev__pytest-7571",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 164,
+      "instance_id": "sphinx-doc__sphinx-11510",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 165,
+      "instance_id": "matplotlib__matplotlib-24627",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 166,
+      "instance_id": "pytest-dev__pytest-7205",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 167,
+      "instance_id": "pydata__xarray-3151",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 168,
+      "instance_id": "sphinx-doc__sphinx-8475",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 169,
+      "instance_id": "django__django-14999",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 170,
+      "instance_id": "scikit-learn__scikit-learn-12973",
+      "source": "batch_151_170"
+    },
+    {
+      "vanilla_number": 171,
+      "instance_id": "scikit-learn__scikit-learn-14141",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 172,
+      "instance_id": "django__django-13112",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 173,
+      "instance_id": "pydata__xarray-3305",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 174,
+      "instance_id": "matplotlib__matplotlib-24970",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 175,
+      "instance_id": "sphinx-doc__sphinx-8593",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 176,
+      "instance_id": "sympy__sympy-17318",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 177,
+      "instance_id": "sphinx-doc__sphinx-9698",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 178,
+      "instance_id": "pydata__xarray-4075",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 179,
+      "instance_id": "scikit-learn__scikit-learn-13328",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 180,
+      "instance_id": "sympy__sympy-17139",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 181,
+      "instance_id": "django__django-11099",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 182,
+      "instance_id": "matplotlib__matplotlib-26291",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 183,
+      "instance_id": "sphinx-doc__sphinx-9711",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 184,
+      "instance_id": "scikit-learn__scikit-learn-13135",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 185,
+      "instance_id": "pydata__xarray-3993",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 186,
+      "instance_id": "matplotlib__matplotlib-23476",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 187,
+      "instance_id": "django__django-14053",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 188,
+      "instance_id": "sympy__sympy-22714",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 189,
+      "instance_id": "sympy__sympy-21847",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 190,
+      "instance_id": "matplotlib__matplotlib-25479",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 191,
+      "instance_id": "django__django-12155",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 192,
+      "instance_id": "pydata__xarray-4629",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 193,
+      "instance_id": "sphinx-doc__sphinx-9320",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 194,
+      "instance_id": "scikit-learn__scikit-learn-14629",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 195,
+      "instance_id": "django__django-15741",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 196,
+      "instance_id": "matplotlib__matplotlib-24149",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 197,
+      "instance_id": "sphinx-doc__sphinx-8638",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 198,
+      "instance_id": "scikit-learn__scikit-learn-13142",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 199,
+      "instance_id": "sympy__sympy-14976",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 200,
+      "instance_id": "scikit-learn__scikit-learn-10908",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 201,
+      "instance_id": "matplotlib__matplotlib-24177",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 202,
+      "instance_id": "sphinx-doc__sphinx-8265",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 203,
+      "instance_id": "sympy__sympy-17630",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 204,
+      "instance_id": "django__django-11734",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 205,
+      "instance_id": "sympy__sympy-16792",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 206,
+      "instance_id": "scikit-learn__scikit-learn-25232",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 207,
+      "instance_id": "django__django-14404",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 208,
+      "instance_id": "sphinx-doc__sphinx-8595",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 209,
+      "instance_id": "matplotlib__matplotlib-24026",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 210,
+      "instance_id": "sphinx-doc__sphinx-7748",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 211,
+      "instance_id": "django__django-16877",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 212,
+      "instance_id": "sympy__sympy-19040",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 213,
+      "instance_id": "scikit-learn__scikit-learn-14983",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 214,
+      "instance_id": "matplotlib__matplotlib-24570",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 215,
+      "instance_id": "sphinx-doc__sphinx-9602",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 216,
+      "instance_id": "sympy__sympy-15809",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 217,
+      "instance_id": "matplotlib__matplotlib-26208",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 218,
+      "instance_id": "scikit-learn__scikit-learn-9288",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 219,
+      "instance_id": "django__django-14725",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 220,
+      "instance_id": "sphinx-doc__sphinx-8035",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 221,
+      "instance_id": "django__django-14752",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 222,
+      "instance_id": "sympy__sympy-23950",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 223,
+      "instance_id": "scikit-learn__scikit-learn-26323",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 224,
+      "instance_id": "matplotlib__matplotlib-21568",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 225,
+      "instance_id": "django__django-14672",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 226,
+      "instance_id": "sympy__sympy-15976",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 227,
+      "instance_id": "scikit-learn__scikit-learn-26194",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 228,
+      "instance_id": "matplotlib__matplotlib-13989",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 229,
+      "instance_id": "sphinx-doc__sphinx-7454",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 230,
+      "instance_id": "scikit-learn__scikit-learn-11310",
+      "source": "batch_171_230"
+    },
+    {
+      "vanilla_number": 231,
+      "instance_id": "matplotlib__matplotlib-20676",
+      "source": "batch_231_240"
+    },
+    {
+      "vanilla_number": 232,
+      "instance_id": "scikit-learn__scikit-learn-14894",
+      "source": "batch_231_240"
+    },
+    {
+      "vanilla_number": 233,
+      "instance_id": "django__django-7530",
+      "source": "batch_231_240"
+    },
+    {
+      "vanilla_number": 234,
+      "instance_id": "sympy__sympy-23413",
+      "source": "batch_231_240"
+    },
+    {
+      "vanilla_number": 235,
+      "instance_id": "sphinx-doc__sphinx-7440",
+      "source": "batch_231_240"
+    },
+    {
+      "vanilla_number": 236,
+      "instance_id": "matplotlib__matplotlib-26113",
+      "source": "batch_231_240"
+    },
+    {
+      "vanilla_number": 237,
+      "instance_id": "sympy__sympy-13757",
+      "source": "batch_231_240"
+    },
+    {
+      "vanilla_number": 238,
+      "instance_id": "sphinx-doc__sphinx-11445",
+      "source": "batch_231_240"
+    },
+    {
+      "vanilla_number": 239,
+      "instance_id": "django__django-12325",
+      "source": "batch_231_240"
+    },
+    {
+      "vanilla_number": 240,
+      "instance_id": "scikit-learn__scikit-learn-10844",
+      "source": "batch_231_240"
+    },
+    {
+      "vanilla_number": 241,
+      "instance_id": "matplotlib__matplotlib-23314",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 242,
+      "instance_id": "sphinx-doc__sphinx-10323",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 243,
+      "instance_id": "django__django-15554",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 244,
+      "instance_id": "sympy__sympy-24213",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 245,
+      "instance_id": "django__django-13512",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 246,
+      "instance_id": "sphinx-doc__sphinx-9281",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 247,
+      "instance_id": "matplotlib__matplotlib-24637",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 248,
+      "instance_id": "sympy__sympy-24539",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 249,
+      "instance_id": "sphinx-doc__sphinx-9229",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 250,
+      "instance_id": "sympy__sympy-12489",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 251,
+      "instance_id": "matplotlib__matplotlib-23412",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 252,
+      "instance_id": "django__django-16595",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 253,
+      "instance_id": "django__django-11740",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 254,
+      "instance_id": "sphinx-doc__sphinx-8459",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 255,
+      "instance_id": "sympy__sympy-18763",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 256,
+      "instance_id": "sphinx-doc__sphinx-9591",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 257,
+      "instance_id": "django__django-12708",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 258,
+      "instance_id": "sympy__sympy-21379",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 259,
+      "instance_id": "sympy__sympy-22914",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 260,
+      "instance_id": "django__django-14534",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 261,
+      "instance_id": "sphinx-doc__sphinx-8551",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 262,
+      "instance_id": "sphinx-doc__sphinx-7985",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 263,
+      "instance_id": "sympy__sympy-13647",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 264,
+      "instance_id": "django__django-15161",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 265,
+      "instance_id": "sphinx-doc__sphinx-7590",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 266,
+      "instance_id": "sympy__sympy-13031",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 267,
+      "instance_id": "django__django-13343",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 268,
+      "instance_id": "django__django-13128",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 269,
+      "instance_id": "sphinx-doc__sphinx-8721",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 270,
+      "instance_id": "sympy__sympy-15875",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 271,
+      "instance_id": "django__django-16560",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 272,
+      "instance_id": "sympy__sympy-12481",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 273,
+      "instance_id": "sphinx-doc__sphinx-8548",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 274,
+      "instance_id": "sympy__sympy-22080",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 275,
+      "instance_id": "sphinx-doc__sphinx-8621",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 276,
+      "instance_id": "django__django-11133",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 277,
+      "instance_id": "sympy__sympy-23534",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 278,
+      "instance_id": "sphinx-doc__sphinx-9673",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 279,
+      "instance_id": "django__django-13658",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 280,
+      "instance_id": "django__django-11880",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 281,
+      "instance_id": "sphinx-doc__sphinx-9461",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 282,
+      "instance_id": "sympy__sympy-19954",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 283,
+      "instance_id": "django__django-10554",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 284,
+      "instance_id": "sympy__sympy-15349",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 285,
+      "instance_id": "sympy__sympy-20438",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 286,
+      "instance_id": "django__django-17084",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 287,
+      "instance_id": "django__django-15277",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 288,
+      "instance_id": "sympy__sympy-24661",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 289,
+      "instance_id": "sympy__sympy-13091",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 290,
+      "instance_id": "django__django-13344",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 291,
+      "instance_id": "sympy__sympy-15017",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 292,
+      "instance_id": "django__django-14238",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 293,
+      "instance_id": "django__django-15957",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 294,
+      "instance_id": "sympy__sympy-13852",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 295,
+      "instance_id": "django__django-13158",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 296,
+      "instance_id": "sympy__sympy-14711",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 297,
+      "instance_id": "sympy__sympy-15345",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 298,
+      "instance_id": "django__django-15368",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 299,
+      "instance_id": "django__django-13417",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 300,
+      "instance_id": "sympy__sympy-18199",
+      "source": "batch_241_300"
+    },
+    {
+      "vanilla_number": 301,
+      "instance_id": "django__django-14915",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 302,
+      "instance_id": "sympy__sympy-17655",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 303,
+      "instance_id": "sympy__sympy-24443",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 304,
+      "instance_id": "django__django-16631",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 305,
+      "instance_id": "sympy__sympy-19783",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 306,
+      "instance_id": "django__django-13786",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 307,
+      "instance_id": "django__django-12858",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 308,
+      "instance_id": "sympy__sympy-13974",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 309,
+      "instance_id": "django__django-15128",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 310,
+      "instance_id": "sympy__sympy-18189",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 311,
+      "instance_id": "django__django-11292",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 312,
+      "instance_id": "sympy__sympy-23824",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 313,
+      "instance_id": "django__django-17087",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 314,
+      "instance_id": "sympy__sympy-18211",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 315,
+      "instance_id": "django__django-15375",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 316,
+      "instance_id": "sympy__sympy-12096",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 317,
+      "instance_id": "sympy__sympy-19637",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 318,
+      "instance_id": "django__django-11451",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 319,
+      "instance_id": "django__django-12050",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 320,
+      "instance_id": "sympy__sympy-13798",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 321,
+      "instance_id": "django__django-11149",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 322,
+      "instance_id": "sympy__sympy-20916",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 323,
+      "instance_id": "django__django-13807",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 324,
+      "instance_id": "sympy__sympy-21612",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 325,
+      "instance_id": "django__django-15499",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 326,
+      "instance_id": "sympy__sympy-15599",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 327,
+      "instance_id": "django__django-12754",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 328,
+      "instance_id": "sympy__sympy-14531",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 329,
+      "instance_id": "django__django-11299",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 330,
+      "instance_id": "sympy__sympy-18698",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 331,
+      "instance_id": "django__django-13195",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 332,
+      "instance_id": "sympy__sympy-21596",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 333,
+      "instance_id": "django__django-14580",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 334,
+      "instance_id": "sympy__sympy-24562",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 335,
+      "instance_id": "sympy__sympy-13480",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 336,
+      "instance_id": "django__django-11532",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 337,
+      "instance_id": "sympy__sympy-22456",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 338,
+      "instance_id": "django__django-15851",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 339,
+      "instance_id": "django__django-13012",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 340,
+      "instance_id": "sympy__sympy-12419",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 341,
+      "instance_id": "django__django-15569",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 342,
+      "instance_id": "sympy__sympy-13878",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 343,
+      "instance_id": "django__django-16950",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 344,
+      "instance_id": "sympy__sympy-16886",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 345,
+      "instance_id": "django__django-12143",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 346,
+      "instance_id": "django__django-11211",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 347,
+      "instance_id": "django__django-11163",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 348,
+      "instance_id": "django__django-12193",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 349,
+      "instance_id": "django__django-11815",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 350,
+      "instance_id": "django__django-13363",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 351,
+      "instance_id": "django__django-15037",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 352,
+      "instance_id": "django__django-14376",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 353,
+      "instance_id": "django__django-13406",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 354,
+      "instance_id": "django__django-16569",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 355,
+      "instance_id": "django__django-14771",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 356,
+      "instance_id": "django__django-16454",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 357,
+      "instance_id": "django__django-13794",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 358,
+      "instance_id": "django__django-15973",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 359,
+      "instance_id": "django__django-15916",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 360,
+      "instance_id": "django__django-16255",
+      "source": "batch_301_360"
+    },
+    {
+      "vanilla_number": 361,
+      "instance_id": "django__django-9296",
+      "source": "batch_361_370"
+    },
+    {
+      "vanilla_number": 362,
+      "instance_id": "django__django-15280",
+      "source": "batch_361_370"
+    },
+    {
+      "vanilla_number": 363,
+      "instance_id": "django__django-10973",
+      "source": "batch_361_370"
+    },
+    {
+      "vanilla_number": 364,
+      "instance_id": "django__django-15127",
+      "source": "batch_361_370"
+    },
+    {
+      "vanilla_number": 365,
+      "instance_id": "django__django-15503",
+      "source": "batch_361_370"
+    },
+    {
+      "vanilla_number": 366,
+      "instance_id": "django__django-14315",
+      "source": "batch_361_370"
+    },
+    {
+      "vanilla_number": 367,
+      "instance_id": "django__django-13569",
+      "source": "batch_361_370"
+    },
+    {
+      "vanilla_number": 368,
+      "instance_id": "django__django-16263",
+      "source": "batch_361_370"
+    },
+    {
+      "vanilla_number": 369,
+      "instance_id": "django__django-15467",
+      "source": "batch_361_370"
+    },
+    {
+      "vanilla_number": 370,
+      "instance_id": "django__django-16899",
+      "source": "batch_361_370"
+    },
+    {
+      "vanilla_number": 371,
+      "instance_id": "django__django-14855",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 372,
+      "instance_id": "django__django-14034",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 373,
+      "instance_id": "django__django-13033",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 374,
+      "instance_id": "django__django-11141",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 375,
+      "instance_id": "django__django-16502",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 376,
+      "instance_id": "django__django-15814",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 377,
+      "instance_id": "django__django-12262",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 378,
+      "instance_id": "django__django-12209",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 379,
+      "instance_id": "django__django-16642",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 380,
+      "instance_id": "django__django-10097",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 381,
+      "instance_id": "django__django-15022",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 382,
+      "instance_id": "django__django-16661",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 383,
+      "instance_id": "django__django-14007",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 384,
+      "instance_id": "django__django-11551",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 385,
+      "instance_id": "django__django-11179",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 386,
+      "instance_id": "django__django-11964",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 387,
+      "instance_id": "django__django-11951",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 388,
+      "instance_id": "django__django-12741",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 389,
+      "instance_id": "django__django-14434",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 390,
+      "instance_id": "django__django-14792",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 391,
+      "instance_id": "django__django-15863",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 392,
+      "instance_id": "django__django-14559",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 393,
+      "instance_id": "django__django-14351",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 394,
+      "instance_id": "django__django-11433",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 395,
+      "instance_id": "django__django-15315",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 396,
+      "instance_id": "django__django-16136",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 397,
+      "instance_id": "django__django-15382",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 398,
+      "instance_id": "django__django-11728",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 399,
+      "instance_id": "django__django-13837",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 400,
+      "instance_id": "django__django-11477",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 401,
+      "instance_id": "django__django-12039",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 402,
+      "instance_id": "django__django-14140",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 403,
+      "instance_id": "django__django-13568",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 404,
+      "instance_id": "django__django-16801",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 405,
+      "instance_id": "django__django-15561",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 406,
+      "instance_id": "django__django-15572",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 407,
+      "instance_id": "django__django-13121",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 408,
+      "instance_id": "django__django-11603",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 409,
+      "instance_id": "django__django-14122",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 410,
+      "instance_id": "django__django-16901",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 411,
+      "instance_id": "django__django-13741",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 412,
+      "instance_id": "django__django-16256",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 413,
+      "instance_id": "django__django-14787",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 414,
+      "instance_id": "django__django-15098",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 415,
+      "instance_id": "django__django-14631",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 416,
+      "instance_id": "django__django-13590",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 417,
+      "instance_id": "django__django-11206",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 418,
+      "instance_id": "django__django-16032",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 419,
+      "instance_id": "django__django-16938",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 420,
+      "instance_id": "django__django-12125",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 421,
+      "instance_id": "django__django-15629",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 422,
+      "instance_id": "django__django-15930",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 423,
+      "instance_id": "django__django-13023",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 424,
+      "instance_id": "django__django-11400",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 425,
+      "instance_id": "django__django-11848",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 426,
+      "instance_id": "django__django-13516",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 427,
+      "instance_id": "django__django-13449",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 428,
+      "instance_id": "django__django-11333",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 429,
+      "instance_id": "django__django-13513",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 430,
+      "instance_id": "django__django-15987",
+      "source": "batch_371_430"
+    },
+    {
+      "vanilla_number": 431,
+      "instance_id": "django__django-13670",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 432,
+      "instance_id": "django__django-13809",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 433,
+      "instance_id": "django__django-13109",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 434,
+      "instance_id": "django__django-14349",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 435,
+      "instance_id": "django__django-13401",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 436,
+      "instance_id": "django__django-14373",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 437,
+      "instance_id": "django__django-11066",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 438,
+      "instance_id": "django__django-13212",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 439,
+      "instance_id": "django__django-11138",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 440,
+      "instance_id": "django__django-15695",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 441,
+      "instance_id": "django__django-16612",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 442,
+      "instance_id": "django__django-14765",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 443,
+      "instance_id": "django__django-12273",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 444,
+      "instance_id": "django__django-12663",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 445,
+      "instance_id": "django__django-12965",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 446,
+      "instance_id": "django__django-12419",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 447,
+      "instance_id": "django__django-13925",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 448,
+      "instance_id": "django__django-12308",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 449,
+      "instance_id": "django__django-13821",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 450,
+      "instance_id": "django__django-16116",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 451,
+      "instance_id": "django__django-16333",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 452,
+      "instance_id": "django__django-15104",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 453,
+      "instance_id": "django__django-16100",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 454,
+      "instance_id": "django__django-10999",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 455,
+      "instance_id": "django__django-11749",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 456,
+      "instance_id": "django__django-13346",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 457,
+      "instance_id": "django__django-13933",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 458,
+      "instance_id": "django__django-13089",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 459,
+      "instance_id": "django__django-16527",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 460,
+      "instance_id": "django__django-15563",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 461,
+      "instance_id": "django__django-11095",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 462,
+      "instance_id": "django__django-14011",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 463,
+      "instance_id": "django__django-12276",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 464,
+      "instance_id": "django__django-14539",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 465,
+      "instance_id": "django__django-16315",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 466,
+      "instance_id": "django__django-15380",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 467,
+      "instance_id": "django__django-13028",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 468,
+      "instance_id": "django__django-12774",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 469,
+      "instance_id": "django__django-14608",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 470,
+      "instance_id": "django__django-14155",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 471,
+      "instance_id": "django__django-10914",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 472,
+      "instance_id": "django__django-16082",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 473,
+      "instance_id": "django__django-13297",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 474,
+      "instance_id": "django__django-11555",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 475,
+      "instance_id": "django__django-13820",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 476,
+      "instance_id": "django__django-14089",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 477,
+      "instance_id": "django__django-17029",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 478,
+      "instance_id": "django__django-16139",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 479,
+      "instance_id": "django__django-13810",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 480,
+      "instance_id": "django__django-12713",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 481,
+      "instance_id": "django__django-16819",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 482,
+      "instance_id": "django__django-16485",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 483,
+      "instance_id": "django__django-11490",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 484,
+      "instance_id": "django__django-11820",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 485,
+      "instance_id": "django__django-14493",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 486,
+      "instance_id": "django__django-13315",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 487,
+      "instance_id": "django__django-11999",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 488,
+      "instance_id": "django__django-11885",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 489,
+      "instance_id": "django__django-11265",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 490,
+      "instance_id": "django__django-14170",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 491,
+      "instance_id": "django__django-15525",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 492,
+      "instance_id": "django__django-13551",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 493,
+      "instance_id": "django__django-14017",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 494,
+      "instance_id": "django__django-11276",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 495,
+      "instance_id": "django__django-16429",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 496,
+      "instance_id": "django__django-15732",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 497,
+      "instance_id": "django__django-15731",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 498,
+      "instance_id": "django__django-13964",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 499,
+      "instance_id": "django__django-12406",
+      "source": "batch_431_500"
+    },
+    {
+      "vanilla_number": 500,
+      "instance_id": "django__django-12304",
+      "source": "batch_431_500"
+    }
+  ]
+}

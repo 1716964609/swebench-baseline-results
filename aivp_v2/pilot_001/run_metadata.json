@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "dataset": "SWE-bench_Verified",
+  "instance_id": "sympy__sympy-20590",
+  "repo": "sympy/sympy",
+  "base_commit": "cffd4e0f86fefd4802349a9f9b19ed70934ea354",
+  "aivp_run_id": "run-20261015-163626-6e9a9f29",
+  "aivp_status": "AUTO_FINISHED",
+  "model_name_or_path": "aivp-v2-codex-gpt5.6-terra-claude-opus5.5",
+  "patch_sha256": "0b8fab0765654eb76ca27ec6984d9bbb785e2139aad3207b261642536bf71a4e",
+  "patch_bytes": 892,
+  "source_final_diff_sha256": "0b8fab0765654eb76ca27ec6984d9bbb785e2139aad3207b261642536bf71a4e",
+  "model_usage": {
+    "openai": {
+      "calls": 2,
+      "latency_ms": 400544,
+      "input_tokens": 564137,
+      "cached_tokens": 492032,
+      "output_tokens": 4883,
+      "cost_usd": null,
+      "cost_known_calls": 0
+    },
+    "anthropic": {
+      "calls": 1,
+      "latency_ms": 25128,
+      "input_tokens": 5111,
+      "cached_tokens": 0,
+      "output_tokens": 2426,
+      "cost_usd": 0.068964,
+      "cost_known_calls": 1
+    }
+  },
+  "aivp_metrics": {
+    "version": "1.0.0",
+    "status": "AUTO_FINISHED",
+    "started_at": "2026-10-15T16:36:26+09:00",
+    "finished_at": "2026-10-15T16:43:33+09:00",
+    "elapsed_seconds": 427.178,
+    "codex_calls": 2,
+    "claude_calls": 1,
+    "fix_iterations": 0,
+    "changed_paths": [
+      "sympy/core/_print_helpers.py",
+      "sympy/core/tests/test_symbol.py"
+    ],
+    "final_risk": "low"
+  },
+  "review_risk": "low",
+  "official_evaluation": null
+}

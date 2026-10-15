@@ -1,0 +1,20 @@
+Building 1 image(s) from /Users/machome/swe-bench-tasks before evaluating...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [02:19<00:00, 139.99s/it]1 ran successfully, 0 failed: 100%|██████████| 1/1 [02:19<00:00, 139.99s/it]1 ran successfully, 0 failed: 100%|██████████| 1/1 [02:19<00:00, 139.99s/it]
+All instance images built successfully.
+Built 1 image(s) locally; none pulled.
+Running 1 instances...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:28<00:00, 28.41s/it]1 ran successfully, 0 failed: 100%|██████████| 1/1 [00:28<00:00, 28.41s/it]1 ran successfully, 0 failed: 100%|██████████| 1/1 [00:28<00:00, 28.41s/it]
+All instances run.
+Total instances: 1
+Instances submitted: 1
+Instances completed: 1
+Instances incomplete: 0
+Instances resolved: 1
+Instances unresolved: 0
+Instances with likely infrastructure failures: 0
+Instances with ambiguous failures: 0
+Instances with empty patches: 0
+Instances with errors: 0
+Unstopped containers: 0
+Unremoved images: 1
+Report written to logs/evaluation/aivp-v2-sympy20590-e2e003-local-20261015/results.json
