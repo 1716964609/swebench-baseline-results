@@ -1,0 +1,912 @@
+[
+  {
+    "instance_id": "django__django-14855",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b001"
+  },
+  {
+    "instance_id": "django__django-14034",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b001"
+  },
+  {
+    "instance_id": "django__django-13033",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b001"
+  },
+  {
+    "instance_id": "django__django-11141",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b001"
+  },
+  {
+    "instance_id": "django__django-16502",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b001"
+  },
+  {
+    "instance_id": "django__django-15814",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b001"
+  },
+  {
+    "instance_id": "django__django-12262",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b001"
+  },
+  {
+    "instance_id": "django__django-12209",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b001"
+  },
+  {
+    "instance_id": "django__django-16642",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b002"
+  },
+  {
+    "instance_id": "django__django-10097",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b002"
+  },
+  {
+    "instance_id": "django__django-15022",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b002"
+  },
+  {
+    "instance_id": "django__django-16661",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b002"
+  },
+  {
+    "instance_id": "django__django-14007",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b002"
+  },
+  {
+    "instance_id": "django__django-11551",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b002"
+  },
+  {
+    "instance_id": "django__django-11179",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b002"
+  },
+  {
+    "instance_id": "django__django-11964",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b002"
+  },
+  {
+    "instance_id": "django__django-11951",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b003"
+  },
+  {
+    "instance_id": "django__django-12741",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b003"
+  },
+  {
+    "instance_id": "django__django-14434",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b003"
+  },
+  {
+    "instance_id": "django__django-14792",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b003"
+  },
+  {
+    "instance_id": "django__django-15863",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b003"
+  },
+  {
+    "instance_id": "django__django-14559",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b003"
+  },
+  {
+    "instance_id": "django__django-14351",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b003"
+  },
+  {
+    "instance_id": "django__django-11433",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b003"
+  },
+  {
+    "instance_id": "django__django-15315",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b004"
+  },
+  {
+    "instance_id": "django__django-16136",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b004"
+  },
+  {
+    "instance_id": "django__django-15382",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b004"
+  },
+  {
+    "instance_id": "django__django-11728",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b004"
+  },
+  {
+    "instance_id": "django__django-13837",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b004"
+  },
+  {
+    "instance_id": "django__django-11477",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b004"
+  },
+  {
+    "instance_id": "django__django-12039",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b004"
+  },
+  {
+    "instance_id": "django__django-14140",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b004"
+  },
+  {
+    "instance_id": "django__django-13568",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b005"
+  },
+  {
+    "instance_id": "django__django-16801",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b005"
+  },
+  {
+    "instance_id": "django__django-15561",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b005"
+  },
+  {
+    "instance_id": "django__django-15572",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b005"
+  },
+  {
+    "instance_id": "django__django-13121",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b005"
+  },
+  {
+    "instance_id": "django__django-11603",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b005"
+  },
+  {
+    "instance_id": "django__django-14122",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b005"
+  },
+  {
+    "instance_id": "django__django-16901",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b005"
+  },
+  {
+    "instance_id": "django__django-13741",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b006"
+  },
+  {
+    "instance_id": "django__django-16256",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b006"
+  },
+  {
+    "instance_id": "django__django-14787",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b006"
+  },
+  {
+    "instance_id": "django__django-15098",
+    "resolved": false,
+    "ambiguous_failure": true,
+    "failure_reason": "missing_module",
+    "run_id": "vanilla-local-cycle-v1-b006"
+  },
+  {
+    "instance_id": "django__django-14631",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b006"
+  },
+  {
+    "instance_id": "django__django-13590",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b006"
+  },
+  {
+    "instance_id": "django__django-11206",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b006"
+  },
+  {
+    "instance_id": "django__django-16032",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b006"
+  },
+  {
+    "instance_id": "django__django-16938",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b007"
+  },
+  {
+    "instance_id": "django__django-12125",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b007"
+  },
+  {
+    "instance_id": "django__django-15629",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b007"
+  },
+  {
+    "instance_id": "django__django-15930",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b007"
+  },
+  {
+    "instance_id": "django__django-13023",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b007"
+  },
+  {
+    "instance_id": "django__django-11400",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b007"
+  },
+  {
+    "instance_id": "django__django-11848",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b007"
+  },
+  {
+    "instance_id": "django__django-13516",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b007"
+  },
+  {
+    "instance_id": "django__django-13449",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b008"
+  },
+  {
+    "instance_id": "django__django-11333",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b008"
+  },
+  {
+    "instance_id": "django__django-13513",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b008"
+  },
+  {
+    "instance_id": "django__django-15987",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b008"
+  },
+  {
+    "instance_id": "django__django-13670",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b008"
+  },
+  {
+    "instance_id": "django__django-13809",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b008"
+  },
+  {
+    "instance_id": "django__django-13109",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b008"
+  },
+  {
+    "instance_id": "django__django-14349",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b008"
+  },
+  {
+    "instance_id": "django__django-13401",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b009"
+  },
+  {
+    "instance_id": "django__django-14373",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b009"
+  },
+  {
+    "instance_id": "django__django-11066",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b009"
+  },
+  {
+    "instance_id": "django__django-13212",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b009"
+  },
+  {
+    "instance_id": "django__django-11138",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b009"
+  },
+  {
+    "instance_id": "django__django-15695",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b009"
+  },
+  {
+    "instance_id": "django__django-16612",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b009"
+  },
+  {
+    "instance_id": "django__django-14765",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b009"
+  },
+  {
+    "instance_id": "django__django-12273",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b010"
+  },
+  {
+    "instance_id": "django__django-12663",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b010"
+  },
+  {
+    "instance_id": "django__django-12965",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b010"
+  },
+  {
+    "instance_id": "django__django-12419",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b010"
+  },
+  {
+    "instance_id": "django__django-13925",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b010"
+  },
+  {
+    "instance_id": "django__django-12308",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b010"
+  },
+  {
+    "instance_id": "django__django-13821",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b010"
+  },
+  {
+    "instance_id": "django__django-16116",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b010"
+  },
+  {
+    "instance_id": "django__django-16333",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b011"
+  },
+  {
+    "instance_id": "django__django-15104",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b011"
+  },
+  {
+    "instance_id": "django__django-16100",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b011"
+  },
+  {
+    "instance_id": "django__django-10999",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b011"
+  },
+  {
+    "instance_id": "django__django-11749",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b011"
+  },
+  {
+    "instance_id": "django__django-13346",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b011"
+  },
+  {
+    "instance_id": "django__django-13933",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b011"
+  },
+  {
+    "instance_id": "django__django-13089",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b011"
+  },
+  {
+    "instance_id": "django__django-16527",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b012"
+  },
+  {
+    "instance_id": "django__django-15563",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b012"
+  },
+  {
+    "instance_id": "django__django-11095",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b012"
+  },
+  {
+    "instance_id": "django__django-14011",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b012"
+  },
+  {
+    "instance_id": "django__django-12276",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b012"
+  },
+  {
+    "instance_id": "django__django-14539",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b012"
+  },
+  {
+    "instance_id": "django__django-16315",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b012"
+  },
+  {
+    "instance_id": "django__django-15380",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b012"
+  },
+  {
+    "instance_id": "django__django-13028",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b013"
+  },
+  {
+    "instance_id": "django__django-12774",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b013"
+  },
+  {
+    "instance_id": "django__django-14608",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b013"
+  },
+  {
+    "instance_id": "django__django-14155",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b013"
+  },
+  {
+    "instance_id": "django__django-10914",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b013"
+  },
+  {
+    "instance_id": "django__django-16082",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b013"
+  },
+  {
+    "instance_id": "django__django-13297",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b013"
+  },
+  {
+    "instance_id": "django__django-11555",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b013"
+  },
+  {
+    "instance_id": "django__django-13820",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b014"
+  },
+  {
+    "instance_id": "django__django-14089",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b014"
+  },
+  {
+    "instance_id": "django__django-17029",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b014"
+  },
+  {
+    "instance_id": "django__django-16139",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b014"
+  },
+  {
+    "instance_id": "django__django-13810",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b014"
+  },
+  {
+    "instance_id": "django__django-12713",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b014"
+  },
+  {
+    "instance_id": "django__django-16819",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b014"
+  },
+  {
+    "instance_id": "django__django-16485",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b014"
+  },
+  {
+    "instance_id": "django__django-11490",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b015"
+  },
+  {
+    "instance_id": "django__django-11820",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b015"
+  },
+  {
+    "instance_id": "django__django-14493",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b015"
+  },
+  {
+    "instance_id": "django__django-13315",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b015"
+  },
+  {
+    "instance_id": "django__django-11999",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b015"
+  },
+  {
+    "instance_id": "django__django-11885",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b015"
+  },
+  {
+    "instance_id": "django__django-11265",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b015"
+  },
+  {
+    "instance_id": "django__django-14170",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b015"
+  },
+  {
+    "instance_id": "django__django-15525",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b016"
+  },
+  {
+    "instance_id": "django__django-13551",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b016"
+  },
+  {
+    "instance_id": "django__django-14017",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b016"
+  },
+  {
+    "instance_id": "django__django-11276",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b016"
+  },
+  {
+    "instance_id": "django__django-16429",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b016"
+  },
+  {
+    "instance_id": "django__django-15732",
+    "resolved": false,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b016"
+  },
+  {
+    "instance_id": "django__django-15731",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b016"
+  },
+  {
+    "instance_id": "django__django-13964",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b016"
+  },
+  {
+    "instance_id": "django__django-12406",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b017"
+  },
+  {
+    "instance_id": "django__django-12304",
+    "resolved": true,
+    "ambiguous_failure": false,
+    "failure_reason": null,
+    "run_id": "vanilla-local-cycle-v1-b017"
+  }
+]
