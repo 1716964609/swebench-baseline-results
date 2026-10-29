@@ -1,0 +1,30 @@
+{
+  "experiment": "AIVP v2 Shadow",
+  "dataset": "SWE-bench Verified",
+  "audited_at_utc": "2026-10-29T02:22:12.026531+00:00",
+  "total": 500,
+  "completed": 500,
+  "resolved": 405,
+  "unresolved": 95,
+  "resolved_rate": 0.81,
+  "ambiguous_count": 9,
+  "requires_revalidation_ids": [
+    "astropy__astropy-13398",
+    "django__django-15098",
+    "pylint-dev__pylint-4551",
+    "pylint-dev__pylint-4604",
+    "pylint-dev__pylint-4661",
+    "pytest-dev__pytest-10356",
+    "pytest-dev__pytest-5840",
+    "pytest-dev__pytest-7205",
+    "pytest-dev__pytest-7490"
+  ],
+  "image_methods": {
+    "published_image": 83,
+    "local_build": 417
+  },
+  "input_sha256": "7dd1a1a50aa85219b1e20aed08584bbdd90ba21bc6aab2c718521fe4c9d9981a",
+  "task_repo_commit": "3d07b464b7b311a0cbfb5ed5b2d8a3b96f84a33d",
+  "checkpoint_batches": 52,
+  "note": "Ambiguous flags are retained separately from SWE-bench resolved/unresolved grades. The 500 predictions are the AIVP v2 Shadow set, not accepted-only predictions."
+}
