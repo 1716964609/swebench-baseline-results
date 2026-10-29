@@ -1,0 +1,114 @@
+{
+  "dataset": "SWE-bench Verified",
+  "first_issue_prediction_original_local_file_sha256": "c38d391cd1b81294cd8e0ae03b5cacf77c134c625f7d98bba9104566cf713857",
+  "predictions_path": "evaluation/vanilla-500/predictions.jsonl",
+  "predictions_sha256": "0133fdfab4413a3077e16766270474ae2214cbf5e97329b35ec771666fec1c27",
+  "purpose": "canonical lossless consolidation of Vanilla Codex generated model_patch strings",
+  "raw_trace_exported": false,
+  "record_count": 500,
+  "research_date": "2026-10-29",
+  "schema_version": 1,
+  "source_files": {
+    "batch_02_10": {
+      "selected_record_count": 9,
+      "sha256": "2a422d49d5f7795157829893c06930c212bbde753694414ecd3be532174afebc",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_02_10/predictions.jsonl",
+      "source_record_count": 9
+    },
+    "batch_101_150": {
+      "selected_record_count": 50,
+      "sha256": "3684035747612222fa89fc0b92e1065423bd55d7f43d84285da81e0ddf1bfd36",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_101_150/predictions.jsonl",
+      "source_record_count": 50
+    },
+    "batch_11_40": {
+      "selected_record_count": 30,
+      "sha256": "eec7af2c7a8cfb18bb9d14b7d6c7a561dfbcb2713487dd8d024cea01c150ac08",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_11_40/predictions.jsonl",
+      "source_record_count": 30
+    },
+    "batch_151_170": {
+      "selected_record_count": 20,
+      "sha256": "ba2f7899c35beb2442d5eb50893d9a2cab533f1693de882979dbe6f7de4b5ab3",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_151_170/predictions.jsonl",
+      "source_record_count": 20
+    },
+    "batch_171_230": {
+      "selected_record_count": 60,
+      "sha256": "ebf66de32bc6a3b54eeebb8830f8ea4ce993ea71c6cb8404284d74a2e637eb8b",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_171_230/predictions.jsonl",
+      "source_record_count": 60
+    },
+    "batch_231_240": {
+      "selected_record_count": 10,
+      "sha256": "4630feabcb9b6b900760ca4f3cc72bc685ba93b8b4975b526f1c656fec108692",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_231_240/predictions.jsonl",
+      "source_record_count": 10
+    },
+    "batch_241_300": {
+      "selected_record_count": 60,
+      "sha256": "da4cf0a42649bcf44eb230079a253fcd58cfb5ce9166f565b43315439cf75aa7",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_241_300/predictions.jsonl",
+      "source_record_count": 60
+    },
+    "batch_301_360": {
+      "selected_record_count": 60,
+      "sha256": "9f7229d7f61056298e778def4588adbb4c4d9b53f859909d675c3b763ee40f49",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_301_360/predictions.jsonl",
+      "source_record_count": 60
+    },
+    "batch_361_370": {
+      "selected_record_count": 10,
+      "sha256": "211e1d3bb62b1b286a4604e85a0da576d59d7d0109b9543d3cdcfb7bc1cb2929",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_361_370/predictions.jsonl",
+      "source_record_count": 10
+    },
+    "batch_371_430": {
+      "selected_record_count": 60,
+      "sha256": "9d6a73b0c3f36086d2b6acdd7a6e6af83bc45d5a301f0c4ca09303a2bcb2a670",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_371_430/predictions.jsonl",
+      "source_record_count": 60
+    },
+    "batch_41_60": {
+      "selected_record_count": 20,
+      "sha256": "b6745a19b4d25c44f24a42b4fd30e024964bc55067257c2e8e3aa0c2be238070",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_41_60/predictions.jsonl",
+      "source_record_count": 20
+    },
+    "batch_431_500": {
+      "selected_record_count": 70,
+      "sha256": "5d2b4b5f29f2db93f2a1fde307b23567d69dd849590bceab4ca3257d659f92ca",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_431_500/predictions.jsonl",
+      "source_record_count": 70
+    },
+    "batch_61_100": {
+      "selected_record_count": 40,
+      "sha256": "2c5d5009f6bc82525ff19dabf9c7ed9d655849811f3e4fa41bb6b5320b4c9810",
+      "source_available_in_git": true,
+      "source_path": "experiments/vanilla/batch_61_100/predictions.jsonl",
+      "source_record_count": 40
+    },
+    "codex-first-test-001": {
+      "selected_record_count": 1,
+      "sha256": "c38d391cd1b81294cd8e0ae03b5cacf77c134c625f7d98bba9104566cf713857",
+      "source_available_in_git": false,
+      "source_path": "original-local-first-run/prediction.jsonl",
+      "source_record_count": 1
+    }
+  },
+  "source_order_path": "docs/research/Vanilla_Baseline_Instance_Order.json",
+  "source_order_sha256": "dda5b2cb84ea7b46d878d0599ff5c3e30306d97a15354547de9fc6b1e3897c1c",
+  "unique_instance_count": 500
+}

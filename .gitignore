@@ -1,0 +1,8 @@
+# OS metadata
+.DS_Store
+**/.DS_Store
+
+# Local execution artifacts (never ignore research files intentionally archived)
+__pycache__/
+*.py[cod]
+.venv/
