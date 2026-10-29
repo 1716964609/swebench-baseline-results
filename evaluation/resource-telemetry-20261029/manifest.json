@@ -1,0 +1,68 @@
+{
+  "aivp_additional": {
+    "note": "Recovery includes a non-issue identifier, previous-results.",
+    "records": 22,
+    "recovery_records": 7,
+    "retry_records": 15
+  },
+  "aivp_base": {
+    "duration_coverage": 500,
+    "issues": 500,
+    "mean_task_elapsed_seconds": 186.1271,
+    "model_usage_missing_calls": 15,
+    "resolved": 405,
+    "telemetry": {
+      "cached_tokens_recorded": 184156928,
+      "input_known_calls": 1716,
+      "input_tokens_recorded": 281346935,
+      "model_calls": 1731,
+      "output_known_calls": 1716,
+      "output_tokens_recorded": 4113476
+    }
+  },
+  "cost_semantics": "Recorded costs are PARTIAL, mostly Claude only; NOT complete billing or API-equivalent total.",
+  "dataset": "SWE-bench Verified (500)",
+  "excluded_e2e": {
+    "records": 2
+  },
+  "files": {
+    "aivp-additional-22.jsonl": {
+      "rows": 22,
+      "sha256": "c4a07291e733311d24272e850e32ef0a24d59f5b5de1b79ec2f4627544001bde"
+    },
+    "aivp-base-500.jsonl": {
+      "rows": 500,
+      "sha256": "58f729de1b1c53c182244d8fa29cb4f55f3532054f3023609d6436b6c0b74eca"
+    },
+    "aivp-model-calls.jsonl": {
+      "rows": 1806,
+      "sha256": "154ec0b3b45b8d6ffccb8116b58493935bea72117c4c6f0b767b9057ca6ef8fc"
+    },
+    "rebuild_telemetry.py": {
+      "sha256": "a13f5d59c8559a7348af13281bf9a4eac2fd363c47097230d47239ae3589a502"
+    },
+    "vanilla-500.jsonl": {
+      "rows": 500,
+      "sha256": "afe2471d457410292d551b18fb7908781c8d863154458b2ec90c4f74c76261cb"
+    }
+  },
+  "raw_source_policy": "Original logs remain local to Mac and are referenced by path relative to HOME and SHA256.",
+  "research_date": "2026-10-29",
+  "schema_version": 1,
+  "scope": "Per-issue/per-call NUMERIC telemetry; no raw traces, prompts, full command output, or source checkout.",
+  "source_of_truth_evaluation": "evaluation/aivp-v2-shadow-500/results.json + historical Vanilla reports + evaluation/vanilla-remaining-130/results-130.json",
+  "vanilla": {
+    "direct_monotonic_time_records": 490,
+    "estimated_filesystem_time_records": 10,
+    "issues": 500,
+    "mean_task_elapsed_seconds": 122.5498,
+    "resolved_reported": 369,
+    "summed_task_elapsed_seconds": 61274.8863,
+    "tokens": {
+      "cached_input_tokens": 132534528,
+      "input_tokens": 145764941,
+      "output_tokens": 1491005,
+      "total_tokens": 147255946
+    }
+  }
+}
